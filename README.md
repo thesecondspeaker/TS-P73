@@ -1,6 +1,6 @@
 # TS-P73
 
-![TS-P73 Vocal Preamp](T-P73.png
+![TS-P73 Vocal Preamp](T-P73.png)
 
 ### Vocal Preamp by thesecondspeaker
 
