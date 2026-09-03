@@ -1,5 +1,8 @@
 # TS-P73
 
+![TS-P73 Vocal Preamp](T-P73.png)
+
+### Vocal Preamp by thesecondspeaker
 ### Vocal Preamp by thesecondspeaker
 
 **TS-P73** is a free boutique vocal preamp VST3 plugin for macOS, designed to add warm, smooth and musical analog colour to vocals and other audio sources.
